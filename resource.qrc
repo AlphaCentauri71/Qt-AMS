@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/">
+        <file>photo/background.png</file>
+        <file>photo/background2.png</file>
+        <file>photo/test.png</file>
+        <file>photo/wenben.png</file>
+        <file>photo/background3.png</file>
+        <file>photo/diaochang.png</file>
+        <file>photo/photo.png</file>
+        <file>photo/logo.ico</file>
+        <file>photo/logo.png</file>
+    </qresource>
+</RCC>
